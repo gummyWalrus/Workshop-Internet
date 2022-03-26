@@ -18,4 +18,7 @@ Docker est un puissant outil pour créer des environnements virtuels (containers
 
 1. Définissez un Dockerfile capable de construire une image qui déployerais le premier site "fedora 42"
 2. Démarrez le sur votre machine et essayez d'y accéder
-3. Faites de meme pour votre 
+3. Faites de meme pour l'autre site web
+
+# Docker-compose
+
