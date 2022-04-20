@@ -12,11 +12,15 @@ Cette expérience permet de réaliser les différents composants qui mène un si
 
 Seul [docker](https://docs.docker.com/get-started/overview/) et [docker-compose](https://docs.docker.com/compose/) sont requis pour débuter ce workshop. Installez les en suivant la [doc d'installation](https://docs.docker.com/get-docker/).
 
+Je vous recommande d'utiliser Linux pour ce workshop pour permettre une meilleure portabilité des exemples et des explications, cela sera aussi plus facile pour moi de vous aidez en cas de soucis.
+
+> Installer Docker jusqu'au bout [(post-installation steps)](https://docs.docker.com/engine/install/linux-postinstall/) facilitera votre participation à ce workshop.
+
 # Docker
 
 Docker est un puissant outil pour créer des environnements virtuels (containers) rapidement.
 
-1. Définissez un Dockerfile capable de construire une image qui déployerais le premier site "fedora 42"
+1. Définissez un Dockerfile capable de construire une image qui déployera le premier site "fedora 42"
 2. Démarrez le sur votre machine et essayez d'y accéder
 3. Faites de meme pour l'autre site web
 
